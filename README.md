@@ -1,6 +1,6 @@
 # Pokedevs
 
-**Pokedevs** é uma aplicação interativa que combina o universo Pokémon com o mundo da programação. Cada "Pokedev" representa um tipo de desenvolvedor com habilidades únicas que são relacionadas às características dos Pokémons. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, criando uma experiência divertida e educativa para os desenvolvedores.
+**Pokedevs** é uma aplicação interativa que combina o universo Pokémon com o mundo da programação. Cada "Pokedev" representa um tipo de desenvolvedor com habilidades únicas que são relacionadas às características dos Pokémons. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 
 ## 🚀 Funcionalidades
 
